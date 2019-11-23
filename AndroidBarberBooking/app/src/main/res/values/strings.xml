@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BarberShop</string>
+
+    <!--<string name="facebook_app_id">1167596246734194</string>
+    <string name="fb_login_protocol_scheme">fb1167596246734194</string>
+
+    <string name="ACCOUNT_KIT_CLINT_TOKEN">547ea44ba0941124dff698362463430d</string>-->
+
+    <string name="address_bullet">\u2022 Address:</string>
+    <string name="time_bullet">\u2022 Time:</string>
+    <string name="stylelist_bullet">\u2022 Stylelist:</string>
+    <string name="bullet">\u2022</string>
+
+</resources>

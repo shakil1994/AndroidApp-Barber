@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "310486112452",
+    "firebase_url": "https://barber-booking-app-99dad.firebaseio.com",
+    "project_id": "barber-booking-app-99dad",
+    "storage_bucket": "barber-booking-app-99dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310486112452:android:9dddb4c7349f6339",
+        "android_client_info": {
+          "package_name": "com.example.shakil.androidbarberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310486112452-03la5rk78osof0g76879eap9j4f28co1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.androidbarberbooking",
+            "certificate_hash": "539c7005880044851e31b2540369231cbd944413"
+          }
+        },
+        {
+          "client_id": "310486112452-5dniu93cnmi03tlpjfo83a55rv8l2b8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.androidbarberbooking",
+            "certificate_hash": "e216bb1d029c1c3468723eaf800d2acb5fb42ba7"
+          }
+        },
+        {
+          "client_id": "310486112452-9blqjfetdt99dmj10ngte127557076fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxgb07ymJsXoIZ1w-nbARmNEJlRL0NzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310486112452-9blqjfetdt99dmj10ngte127557076fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310486112452:android:df8235624f807908",
+        "android_client_info": {
+          "package_name": "com.example.shakil.androidbarberstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310486112452-oe4phsl0pjkkugfecu7l0io0mohr2ida.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.androidbarberstaff",
+            "certificate_hash": "e216bb1d029c1c3468723eaf800d2acb5fb42ba7"
+          }
+        },
+        {
+          "client_id": "310486112452-9blqjfetdt99dmj10ngte127557076fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxgb07ymJsXoIZ1w-nbARmNEJlRL0NzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310486112452-9blqjfetdt99dmj10ngte127557076fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
